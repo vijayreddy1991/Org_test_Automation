@@ -2,8 +2,8 @@ resources:
   - name: script_repo1
     type: GitRepo
     configuration:
-      gitProvider: s_gitHub
-      path: jfbetapipeorg/Org_test_Automation
+      gitProvider: vijay
+      path: vijayreddy1991/Org_test_Automation
       
 pipelines:
   - name: test_stepTestReports
